@@ -1,5 +1,5 @@
 
-var request        = require('request'),
+var http        = require('http'),
     readline       = require('readline'),
     requestPromise = require('request-promise'),
     apiUrl         = "",
