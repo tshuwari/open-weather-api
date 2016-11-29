@@ -1,0 +1,24 @@
+{
+  "name": "open-weather-api",
+  "version": "1.0.0",
+  "description": "A nodejs console app that request for a random quote from a public API and prints it to the console.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshuwari/open-weather-api.git"
+  },
+  "author": "Uloaku Enyingwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshuwari/open-weather-api/issues"
+  },
+  "homepage": "https://github.com/tshuwari/open-weather-api#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
