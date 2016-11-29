@@ -1,11 +1,11 @@
 
-var http        = require('http'),
+var http           = require('http'),
     readline       = require('readline'),
     requestPromise = require('request-promise'),
     apiUrl         = "",
     chalk          = require('chalk');
-const APIKEY = '8ead506fd703f7cc3978d9a394a9be07';
-const rl = readline.createInterface({
+const APIKEY       = '8ead506fd703f7cc3978d9a394a9be07';
+const rl           = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
